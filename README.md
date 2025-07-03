@@ -16,7 +16,7 @@ Database Projects: I created an interactive program using Python to demonstrate 
 
 I am proficient in Python, C/C++, and data science libraries such as Pandas, NumPy, Matplotlib, Seaborn, and TensorFlow. I also have a foundational to intermediate knowledge of
 
-SQL and am an advanced (C1) English speaker.
+SQL and i am an advanced (C1) English speaker.
 
 I am currently looking for opportunities to apply my skills to solve real-world challenges and contribute to innovative projects.
 
